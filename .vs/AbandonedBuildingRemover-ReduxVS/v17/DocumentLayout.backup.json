@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ajaxb\\Documents\\GitHub\\AbandonedBuildingRemover-ReduxVS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|c:\\users\\ajaxb\\documents\\github\\abandonedbuildingremover-reduxvs\\abandonedbuildingremover-reduxvs\\properties\\publishconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|solutionrelative:abandonedbuildingremover-reduxvs\\properties\\publishconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|c:\\users\\ajaxb\\documents\\github\\abandonedbuildingremover-reduxvs\\abandonedbuildingremover-reduxvs\\abandonedbuildingremoversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|solutionrelative:abandonedbuildingremover-reduxvs\\abandonedbuildingremoversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|c:\\users\\ajaxb\\documents\\github\\abandonedbuildingremover-reduxvs\\abandonedbuildingremover-reduxvs\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|solutionrelative:abandonedbuildingremover-reduxvs\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|c:\\users\\ajaxb\\documents\\github\\abandonedbuildingremover-reduxvs\\abandonedbuildingremover-reduxvs\\properties\\publishconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D0F80CF-8EAB-4918-A34F-1CEECC9AFB5B}|AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS.csproj|solutionrelative:abandonedbuildingremover-reduxvs\\properties\\publishconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AbandonedBuildingRemoverSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ajaxb\\Documents\\GitHub\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemoverSystem.cs",
+              "RelativeDocumentMoniker": "AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemoverSystem.cs",
+              "ToolTip": "C:\\Users\\ajaxb\\Documents\\GitHub\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemoverSystem.cs",
+              "RelativeToolTip": "AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemoverSystem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:40:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PublishConfiguration.xml",
               "DocumentMoniker": "C:\\Users\\ajaxb\\Documents\\GitHub\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS\\Properties\\PublishConfiguration.xml",
               "RelativeDocumentMoniker": "AbandonedBuildingRemover-ReduxVS\\Properties\\PublishConfiguration.xml",
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "AbandonedBuildingRemover-ReduxVS\\Mod.cs",
               "ToolTip": "C:\\Users\\ajaxb\\Documents\\GitHub\\AbandonedBuildingRemover-ReduxVS\\AbandonedBuildingRemover-ReduxVS\\Mod.cs",
               "RelativeToolTip": "AbandonedBuildingRemover-ReduxVS\\Mod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:37:13.658Z",
               "EditorCaption": ""
