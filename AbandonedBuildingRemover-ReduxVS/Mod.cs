@@ -19,7 +19,7 @@ namespace AbandonedBuildingRemover_ReduxVS
                 log.Info($"Current mod asset at {asset.path}");
 
             //updateSystem.UpdateAfter<AbandonedBuildingRemoverSystem>(SystemUpdatePhase.Deserialize);
-            updateSystem.UpdateAfter<AbandonedBuildingRemoverSystem>(SystemUpdatePhase.GameSimulation);
+            updateSystem.UpdateAfter<AbandonedBuildingRemover.AbandonedBuildingRemoverSystem>(SystemUpdatePhase.GameSimulation);
         }
 
         public void OnDispose()
